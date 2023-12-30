@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 colorama = "*"
+pillow = "*"
 
 [dev-packages]
 
